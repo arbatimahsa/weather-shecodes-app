@@ -11,15 +11,15 @@ export default function App() {
         <footer>
           This project was coded by{" "}
           <a
-            href="https://www.delac.io/"
+            href="https://portfolio-mahsa.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Matt Delac
+            Mahsa Arbati
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/arbatimahsa/weather-shecodes-app"
             target="_blank"
             rel="noopener noreferrer"
           >
